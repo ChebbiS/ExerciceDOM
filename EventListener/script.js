@@ -13,3 +13,4 @@ const titleLeave = document.querySelector('.title');
 titleLeave.addEventListener('mouseout', () => {
     titleLeave.style.color = 'black';
 })
+
