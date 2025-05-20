@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+.dropdown-menu-content {
+    display: none;
+    list-style: none;
+    background-color: rgba(179, 154, 154, 0.123);
+    width: 70px;
+    text-align: center;
+}
+.dropdown-menu-content li {
+    margin-bottom: 10px;
+}
+.visible {
+    display: block;
+}
